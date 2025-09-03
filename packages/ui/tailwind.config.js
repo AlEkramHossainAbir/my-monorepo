@@ -1,8 +1,7 @@
 module.exports = {
   content: [
-    "../../apps/frontend/**/*.{js,ts,jsx,tsx}",
-    "../../apps/landing/**/*.{js,ts,jsx,tsx}",
-    "./**/*.{js,ts,jsx,tsx}"
+    "./src/**/*.{js,ts,jsx,tsx}",
+    "../../packages/ui/src/**/*.{js,ts,jsx,tsx}"
   ],
   theme: {
     extend: {},

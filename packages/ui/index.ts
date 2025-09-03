@@ -1,1 +1,1 @@
-export * from "./Button";
+export { default as AntdDemo } from "./src/AntdDemo";
